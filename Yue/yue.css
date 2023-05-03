@@ -4,6 +4,10 @@
   margin-bottom: 100px;
 }
 
+.light-subtitle {
+  font-weight: 200;
+}
+
 #outlier {
   object-fit: contain;
   height: 280px;
